@@ -1,0 +1,22 @@
+{
+  "name": "js-training-repo",
+  "version": "1.0.0",
+  "description": "Node Js Training",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Maaz-Mustafa/node.js-training-repo.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Maaz-Mustafa/node.js-training-repo/issues"
+  },
+  "homepage": "https://github.com/Maaz-Mustafa/node.js-training-repo#readme",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
