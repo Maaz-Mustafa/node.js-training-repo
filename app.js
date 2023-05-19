@@ -1,5 +1,6 @@
-const express = require("express");
-var app = express();
+import express from "express";
+
+const app = express();
 
 app.get("/", (req, res) => {
   res.send("Welcome to the new application");
